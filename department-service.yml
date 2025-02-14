@@ -1,7 +1,4 @@
 spring:
-  main:
-    banner-mode: off  # Disable the Spring Boot banner in console logs
-
   # JPA configuration for database interactions
   jpa:
     show-sql: true  # Show SQL queries in logs
